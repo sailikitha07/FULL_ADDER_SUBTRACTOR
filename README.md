@@ -98,6 +98,8 @@ full subtractor;
 
 
 **Output Timing Waveform**
+
+
 ![Screenshot 2024-11-28 225208](https://github.com/user-attachments/assets/418421a1-14e4-4043-82de-f4d0273c77a0)
 ![Screenshot 2024-11-28 225218](https://github.com/user-attachments/assets/a9ebc07e-6448-4039-83ae-3aae8823c873)
 
