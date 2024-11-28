@@ -91,6 +91,7 @@ endmodule
 
 ```
 **RTL Schematic**
+
 full adder;
 ![Screenshot 2024-11-28 225239](https://github.com/user-attachments/assets/52e5c3d0-2286-4ac5-868e-df4fa2172189)
 full subtractor;
